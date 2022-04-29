@@ -1,6 +1,6 @@
 name: Publish
 
-permissions: write-all
+# permissions: write-all
 
 on:
   push:
