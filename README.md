@@ -1,7 +1,7 @@
 [![npm](https://img.shields.io/npm/v/test-vite-vite.svg)](http://npm.im/test-vite-vite)
 [![Publish](https://github.com/vnabet/test-vite-vite/actions/workflows/publish.yml/badge.svg)](https://github.com/vnabet/test-vite-vite/actions/workflows/publish.yml)
 
-# Svelte + TS + Vite
+# Svelte + TS + Vite --
 
 This template should help get you started developing with Svelte and TypeScript in Vite.
 
